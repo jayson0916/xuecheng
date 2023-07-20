@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d2b9f58-0ab6-43e7-9671-433c6272ae5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/wut/pjs/XuechengPlusContentModelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/test/java/wut/pjs/XuechengPlusContentModelApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/xuecheng-plus-base/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -71,66 +80,6 @@
       <recent name="D:\GitRepo\xuecheng\xuecheng-plus-parent" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="xuecheng" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="xuecheng" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -141,7 +90,9 @@
       <updated>1689882083573</updated>
       <workItem from="1689882085377" duration="27000" />
       <workItem from="1689882149245" duration="40000" />
-      <workItem from="1689882195230" duration="1634000" />
+      <workItem from="1689882195230" duration="2556000" />
+      <workItem from="1689884972532" duration="1789000" />
+      <workItem from="1689887892759" duration="257000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1689882393626</created>
@@ -164,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689883451493</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="base pom">
+      <created>1689883881779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689883881779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="base pom">
+      <created>1689883949138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689883949138</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,12 +157,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="parent pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="parent pom" />
+    <MESSAGE value="base pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="base pom" />
   </component>
 </project>
